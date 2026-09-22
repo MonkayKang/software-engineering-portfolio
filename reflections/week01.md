@@ -46,4 +46,6 @@ Wall Street Crash 1987:
 
 -  "The software must genuinely and effectively support its users, not just technically run". This characteristic explains the failure as the program did indeed run, but it did not take into account of real life scenarios. So when there was a sudden massive drop, multiple programs worldwide started selling because of the simplicity of the design.
 
-Link: https://www.britannica.com/event/stock-market-crash-of-1929
+Link: https://www.investopedia.com/terms/s/stock-market-crash-1987.asp
+
+## 
