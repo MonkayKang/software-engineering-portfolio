@@ -37,3 +37,13 @@ Stage 5:
 - Pulled from use after a week and the team scrambled to fix it, took an extra three months
 
 I believe that Stage 1 Failure did the most damage overall. In game design what causes most projects to fail or to be not designed as expected is because of poor planning. While software engineering is not the same as game design, it still follows the same principle. Because the team (and the management) didn't properly set proper specifications and had only one meeting with zero written documentations, the project was doomed to fail even if development had been amazing. The development was also a bit to blame for the failure but had it been present, they were still making something that was already not great. To develop a software that is required for a task, you need to define what that task is.
+
+
+
+## Researching a Software Failure
+Wall Street Crash 1987:
+- On October 19th, 1987 Dow Jones Industrial Average fell 508 points and the S&P 500 dropped 20.4%. This means that the stocks dropped 22.61% of its total value in one day. What lead to the spiral in the market crash was because of large institutions investors used a program that would monitor and analyze the stocks to sell and buy automatically using an algorithm. What the program wasn't design to handle was real world scenarios where a massive panic-market conditions are met. This caused an endless loop of constant selling because of the sudden drop in stocks used by multiple companies. On top of that, many firms used portfolio insurance, an algorithmic strategy that sold futures contracts to hedge against losses. As the market plummeted, it triggered even more selling.
+
+-  "The software must genuinely and effectively support its users, not just technically run". This characteristic explains the failure as the program did indeed run, but it did not take into account of real life scenarios. So when there was a sudden massive drop, multiple programs worldwide started selling because of the simplicity of the design.
+
+Link: https://www.britannica.com/event/stock-market-crash-of-1929
