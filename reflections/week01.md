@@ -1,2 +1,5 @@
 # Daily Reflection
 This reflection will contain the thoughts and experience of the first week of this module
+
+
+For me software is an app or a tool that preforms a task that it was designed for. An example of this is Microsoft Word. It is a software that allows users to create and edit documents as well as print out pages to hand copies of the documents physically. Engineering is the process of designing and building a product or a concept. When you think of engineering, the first thing that comes to mind is construction because it involves creating a building on an empty land with certain materials. Like in software engineering, we build software so that these tools or apps can perform what it was designed to do. One software that I personally worked with well is Discord. It allows me to connect with friends, text, call, and even create groups so that everyone can talk to each other. It's easy to use and very user friendly. One software that gave me the most trouble was Powerpoint. While it did do its job at creating slideshows, its features and how to implement them was confusing and challenging for those who never used it.
