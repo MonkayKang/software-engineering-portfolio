@@ -48,4 +48,6 @@ Wall Street Crash 1987:
 
 Link: https://www.investopedia.com/terms/s/stock-market-crash-1987.asp
 
-## 
+## Is There Still a Software Crisis?
+The 1968 NATO conference was not just about programming techniques. It was held to organise the increase in difficulty of developing large software systems reliably that would in a timely schedule and not over budget. I believe that there still is a software crisis because while newer companies are understanding software engineering, so is the evolution in technology. The reason for the 1960's Software Crisis was because of the short comings of earlier computers and how they handled data. But who's to say that newer computers in the upcoming years wont demand more from existing software? And not only that but with evolution in technology, means early understanding for humans or programmers. In the RetailSync analysis, the failure wasn't just because of the software, it was how it was handled, designed, and planned out by the developers behind it. 
+
